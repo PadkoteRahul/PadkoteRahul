@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, MERN**
 
-- 💬 Ask me about **JAVA, OOPS, DSA**
+- 💬 Ask me about **JAVA 8, OOPS, DSA**
 
 - 📫 How to reach me **padkoterhul20@gmail.com**
 
